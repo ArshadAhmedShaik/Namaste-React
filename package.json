@@ -1,0 +1,32 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React By Arshad!",
+  "keywords": [],
+  "homepage": "https://github.com/ArshadAhmedShaik/Namaste-React#readme",
+  "bugs": {
+    "url": "https://github.com/ArshadAhmedShaik/Namaste-React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArshadAhmedShaik/Namaste-React.git"
+  },
+  "license": "ISC",
+  "author": "Arshad Shaik",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+
+  "browserslist": [
+   "last 2 versions"
+]
+
+}
